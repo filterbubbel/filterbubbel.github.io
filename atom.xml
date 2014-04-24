@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-04-24T19:20:41+02:00</updated>
+  <updated>2014-04-24T20:12:26+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Search Ency 2014]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
