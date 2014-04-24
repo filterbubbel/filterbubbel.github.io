@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://filterbubbel.github.io/sitemap.xml 
