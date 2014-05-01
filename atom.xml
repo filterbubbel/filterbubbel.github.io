@@ -4,7 +4,7 @@
   <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-05-01T14:19:16+02:00</updated>
+  <updated>2014-05-01T15:17:24+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
     <name><![CDATA[Search Ency 2014]]></name>
@@ -14,10 +14,52 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Voorgeschiedenis]]></title>
+    <link href="http://filterbubbel.github.io/blog/2014/05/05/voorgeschiedenis/"/>
+    <updated>2014-05-05T13:50:06+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/05/voorgeschiedenis</id>
+    <content type="html"><![CDATA[<p>Deze post beschrijft de voorgeschiedenis van de filterbubbel.</p>
+
+<!-- more -->
+
+
+<p>De lange, ongeloofelijk interessante voorgeschiedenis.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Concrete Effecten]]></title>
+    <link href="http://filterbubbel.github.io/blog/2014/05/04/concrete-effecten/"/>
+    <updated>2014-05-04T13:50:16+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/04/concrete-effecten</id>
+    <content type="html"><![CDATA[<p>De filterbubbel heeft bepaalde concrete effecten op uw zoekresultaten.</p>
+
+<!-- more -->
+
+
+<p>Ook abstracte, maar daar gaan we niet op in.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Voordelen]]></title>
+    <link href="http://filterbubbel.github.io/blog/2014/05/03/voordelen/"/>
+    <updated>2014-05-03T13:50:59+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/03/voordelen</id>
+    <content type="html"><![CDATA[<p>Deze post beschrijft de voordelen van de filterbubbel.</p>
+
+<!-- more -->
+
+
+<p>Want wij zijn geen partijdige rotzakken.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Tegenmaatregelen]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/01/tegenmaatregelen/"/>
-    <updated>2014-05-01T13:51:20+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/01/tegenmaatregelen</id>
+    <link href="http://filterbubbel.github.io/blog/2014/05/02/tegenmaatregelen/"/>
+    <updated>2014-05-02T13:51:20+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/02/tegenmaatregelen</id>
     <content type="html"><![CDATA[<p>Kunnen we zelfs iets tegen de filterbubbel doen?</p>
 
 <!-- more -->
@@ -38,48 +80,6 @@
 
 
 <p>Of niet. What do I know?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Voordelen]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/01/voordelen/"/>
-    <updated>2014-05-01T13:50:59+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/01/voordelen</id>
-    <content type="html"><![CDATA[<p>Deze post beschrijft de voordelen van de filterbubbel.</p>
-
-<!-- more -->
-
-
-<p>Want wij zijn geen partijdige rotzakken.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Concrete Effecten]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/01/concrete-effecten/"/>
-    <updated>2014-05-01T13:50:16+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/01/concrete-effecten</id>
-    <content type="html"><![CDATA[<p>De filterbubbel heeft bepaalde concrete effecten op uw zoekresultaten.</p>
-
-<!-- more -->
-
-
-<p>Ook abstracte, maar daar gaan we niet op in.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Voorgeschiedenis]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/01/voorgeschiedenis/"/>
-    <updated>2014-05-01T13:50:06+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/01/voorgeschiedenis</id>
-    <content type="html"><![CDATA[<p>Deze post beschrijft de voorgeschiedenies van de filterbubbel.</p>
-
-<!-- more -->
-
-
-<p>De lange, ongeloofelijk interessante voorgeschiedenis.</p>
 ]]></content>
   </entry>
   
