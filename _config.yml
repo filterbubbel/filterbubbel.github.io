@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://filterbubbel.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Filterbubbel
+subtitle: Informatie in een bubbel.
+author: Search Ency 2014
 simple_search: https://www.google.com/search
-description:
+description: Een website over het fenomeen van de filterbubbel.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -70,7 +70,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
