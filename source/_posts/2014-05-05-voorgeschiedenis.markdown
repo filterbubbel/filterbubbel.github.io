@@ -6,12 +6,10 @@ comments: true
 ---
 Deze post beschrijft de voorgeschiedenis van de filterbubbel.
 <!-- more -->
-{% pullquote left %}De lange, ongeloofelijk interessante voorgeschiedenis. {" Via ocotopress kunt ge trouwens van die pullquotes genereren. "}Daar kunt ge mogelijk ook iets mee doen, mocht ge er zin in hebben.{% endpullquote %} Hier voeren we ook maar eens een prent in, om eens te zien wa da geeft.
+{% pullquote %}De lange, ongeloofelijk interessante voorgeschiedenis. {" Via ocotopress kunt ge trouwens van die pullquotes genereren. "} Daar kunt ge mogelijk ook iets mee doen, mocht ge er zin in hebben.{% endpullquote %} Hier voeren we ook maar eens een prent in, om eens te zien wa da geeft.
 {% img http://placekitten.com/890/280 200 150 Test image %}
-En daarnaast ook hetzelfde eens links.
 {% img  left http://placekitten.com/890/280 50 100 Test image %}
-En wanneer we er een links plaatsen, moeten we er natuurlijk ook een rechts plaatsen.
 {% img right http://placekitten.com/890/280 50 100 Test image %}
-Da's maar normaal.
+Aliquip nulla do tempor, ball tip dolore anim esse strip steak nisi nostrud. Tri-tip mollit deserunt ut duis, commodo brisket short loin est hamburger sunt consequat rump meatloaf. Exercitation enim aliqua tempor dolore. Non eu venison, officia boudin tri-tip enim beef ribs flank cupidatat in aute. Tail voluptate fugiat aute flank, venison sint.
 En als laatste een quote.
 {% blockquote Eli Pariser, The Economist (2011) %}A world constructed from the familiar is a world in which there’s nothing to learn ... (since there is) invisible autopropaganda, indoctrinating us with our own ideas.{% endblockquote %}
