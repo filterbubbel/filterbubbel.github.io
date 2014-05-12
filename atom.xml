@@ -4,7 +4,7 @@
   <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-05-12T20:46:05+02:00</updated>
+  <updated>2014-05-12T21:24:26+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
     <name><![CDATA[Search Ency 2014]]></name>
@@ -50,6 +50,12 @@ De alignment van die prenten werkt toch ook niet direct zoals ik gehoopt had. Ma
 
 
 <p>Ook abstracte, maar daar gaan we niet op in.</p>
+
+<figure>
+    <img src='http://placekitten.com/890/280' alt='Cat picture' />
+    <figcaption>A picture of a cat</figcaption>
+</figure>
+
 ]]></content>
   </entry>
   
