@@ -4,7 +4,7 @@
   <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-05-12T20:23:18+02:00</updated>
+  <updated>2014-05-12T20:27:45+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
     <name><![CDATA[Search Ency 2014]]></name>
@@ -23,7 +23,17 @@
 <!-- more -->
 
 
-<p><span class='pullquote-left' data-pullquote='Via ocotopress kunt ge trouwens van die pullquotes genereren.'>De lange, ongeloofelijk interessante voorgeschiedenis. Via ocotopress kunt ge trouwens van die pullquotes genereren.</span> Hier voeren we ook maar eens een prent in, om eens te zien wa da geeft. <img src="http://placekitten.com/890/280" width="200" height="150" title="Test image" > En daarnaast ook hetzelfde eens links. <img class="left" src="http://placekitten.com/890/280" width="50" height="100" title="Test image" > En wanneer we er een links plaatsen, moeten we er natuurlijk ook een rechts plaatsen. <img class="right" src="http://placekitten.com/890/280" width="50" height="100" title="Test image" > Da&rsquo;s maar normaal. <blockquote><p>A world constructed from the familiar is a world in which there’s nothing to learn &hellip; (since there is) invisible autopropaganda, indoctrinating us with our own ideas.</p><footer><strong>Eli Pariser</strong> <cite>The Economist (2011)</cite></footer></blockquote></p>
+<p><span class='pullquote-left' data-pullquote='Via ocotopress kunt ge trouwens van die pullquotes genereren.'>De lange, ongeloofelijk interessante voorgeschiedenis. Via ocotopress kunt ge trouwens van die pullquotes genereren.Daar kunt ge mogelijk ook iets mee doen, mocht ge er zin in hebben.</span> Hier voeren we ook maar eens een prent in, om eens te zien wa da geeft.
+<img src="http://placekitten.com/890/280" width="200" height="150" title="Test image" >
+En daarnaast ook hetzelfde eens links.
+<img class="left" src="http://placekitten.com/890/280" width="50" height="100" title="Test image" >
+En wanneer we er een links plaatsen, moeten we er natuurlijk ook een rechts plaatsen.
+<img class="right" src="http://placekitten.com/890/280" width="50" height="100" title="Test image" >
+Da&rsquo;s maar normaal.
+En als laatste een quote.</p>
+
+<blockquote><p>A world constructed from the familiar is a world in which there’s nothing to learn &#8230; (since there is) invisible autopropaganda, indoctrinating us with our own ideas.</p><footer><strong>Eli Pariser</strong> <cite>The Economist (2011)</cite></footer></blockquote>
+
 ]]></content>
   </entry>
   
