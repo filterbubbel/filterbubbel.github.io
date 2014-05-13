@@ -5,7 +5,7 @@
     {{ content | excerpt | markdownify }}
   </p>
   <span class="meta">
-    written {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
+    geschreven op {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
   </span>
 
   {% if excerpted == 'true' %}
