@@ -4,7 +4,7 @@
   <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-05-18T15:20:37+02:00</updated>
+  <updated>2014-05-18T21:23:43+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
     <name><![CDATA[Search Ency 2014]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lees Verder]]></title>
+    <link href="http://filterbubbel.github.io/blog/2014/05/06/lees-verder/"/>
+    <updated>2014-05-06T19:31:24+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/06/lees-verder</id>
+    <content type="html"><![CDATA[<p>Om meer informatie te vinden over de voor- en nadelen van de <em>filter bubble</em> en hoe hem tegen te gaan verwijzen we u graag naar onze leeslijst.</p>
+
+<!-- more -->
+
+
+<h3>Boeken</h3>
+
+<p>Eli Pariser <a href="http://www.amazon.co.uk/The-Filter-Bubble-Internet-Hiding/dp/0241954525">The Filter Bubble: What The Internet Is Hiding From Us</a><br/>
+Eli Pariser schreef dit boek over het fenomeen dat hij de <em>&ldquo;filter bubble&rdquo;</em> noemt en spreekt over de gevolgen van deze <em>&ldquo;bubble&rdquo;</em>.</p>
+
+<h3>Artikels</h3>
+
+<p>Over voordelen van de <em>filter bubble</em>:<br/>
+Louis Gray <a href="http://blog.louisgray.com/2011/05/why-filter-bubble-is-no-bubble-and-its.html">Why The Filter Bubble Is No Bubble and It&rsquo;s Not Bad Either</a></p>
+
+<p>Over gevaren van de <em>filter bubble</em>:<br/>
+Eli Pariser voor The Filter Bubbel <a href="http://www.thefilterbubble.com/web-inventor-tim-berners-lee-weighs-in-theres-danger-in-the-filter-bubble">Web inventor Tim Berners-Lee weighs in: “There’s danger in the filter bubble”</a></p>
+
+<p>Over de <em>filter bubble</em> en web-personalisatie:<br/>
+Jacob Weisberg voor Slate <a href="http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html">Bubble Trouble</a></p>
+
+<p>Over de <em>filter bubble</em> en zijn relatie met bedrijven:<br/>
+Randy Brians voor Beegood Marketing <a href="http://business.beegoodmarketing.com/what-the-filter-bubble-means-to-progressive-businesses/">What the “Filter Bubble” Means to Progressive Businesses</a></p>
+
+<p>Over het tegengaan van de <em>filter bubble</em>:<br/>
+Mike Elgan voor Computerworld <a href="http://www.computerworld.com/s/article/9216484/Elgan_How_to_pop_your_Internet_filter_bubble_?taxonomyId=167&amp;pageNumber=3">How to pop your Internet &lsquo;filter bubble&rsquo;</a><br/>
+arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/">How to Burst the &ldquo;Filter Bubble&rdquo; that Protects Us from Opposing Views</a></p>
+
+<p>Duck Duck Go is een zoekmachine die geen gebruik maakt van de <em>filter bubble</em>, en daarom een veiligere optie kan zijn om op het web te surfen. Hun <em><a href="https://duckduckgo.com/about">&ldquo;About&rdquo;</a></em> pagina biedt meer informatie over hoe deze zoekmachine werkt. De <em>developers</em> achter Duck Duck Go hebben ook webpagina&rsquo;s aangemaakt over respectievelijk <a href="http://dontbubble.us/">de <em>filter bubble</em> en zijn gevolgen</a>, en <a href="http://fixtracking.com/">hoe hem tegen te gaan</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Voorgeschiedenis]]></title>
@@ -47,15 +84,25 @@
 
 <p>Wat volgt is een kleine selectie van vergelijkende afbeeldingen die voortgekomen zijn uit deze test. Onze conclusie is dat het verschil in resultaten niet ongelooflijk dramatisch is, maar dat er bij de drie meest populaire zoekmachines wel degelijk verschillen te spotten zijn. Duck Duck Go, daarentegen, is daar niet op te betrappen, tenzij in een heel specifiek geval, zoals u zo meteen zult zien. Alle afbeeldingen hebben betrekking op de eerste pagina van zoekresultaten die naar boven komt. Vermeld dient nog te worden dat alle zoekopdrachten uitgevoerd worden door een relatief homogene steekproef van Leuvense studenten uit dezelfde leeftijdscategorie. Met de hyperlinks onder het woord &ldquo;hier&rdquo; kan u na elke set foto&rsquo;s ook zelf testen hoe hard uw resultaten verschillen van de voorbeelden.</p>
 
-<p>&mdash;&ndash; Afbeelding 1 &ldquo;Google 1 &ndash; Jan &ndash; Japanese Fascism&rdquo;</p>
+<p><aside class="figures"></p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding A: een voorbeeld van Google Search, op de zoekterm &#8220;Japanese Fascism&rdquo;, van de persoon die dat onderwerp behandelt voor zijn paper.&#8221;</p>
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/mUZG8o2.jpg"><img height="420" width="400" src="http://i.imgur.com/mUZG8o2.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding A</figcaption>
+</figure>
 
-<p>&mdash;&ndash; Afbeelding 2 &ldquo;Google 2 &ndash; Lieven &ndash; Japanese Fascism&rdquo;</p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding B: een voorbeeld van Google Search, op de zoekterm &#8220;Japanese Fascism&rdquo;, van de persoon die nog geen opzoekwerk heeft gedaan omtrent dit onderwerp.</p>
 
-<p>We beginnen onze voorbeelden met wat algemeen beschouwd wordt als dé zoekmachine der zoekmachines: Google. Het bewijs dat Google wel degelijk haar resultaten filtert is meteen geleverd. Doch het eerste resultaat hetzelfde is, zien we bij de respectievelijke nummers 2 al een verschil opduiken. Hoewel bij voorbeeld A een Wikipedia-pagina op nummer twee staat, is dat bij voorbeeld B een pagina van History Today. Dit resultaat komt bij voorbeeld A ook voor, maar dan op nummer 3. Bij de rest van de respectievelijke pagina&rsquo;s zijn de verschillen ook vooral terug te brengen op een kwestie van volgorde. Het meest opvallende verschil is resultaat nummer 8 van voorbeeld A: daar duikt een pagina van <em>www.washingtonblog.com</em> op, die niet terug te vinden is bij voorbeeld B. Het feit dat de link van dit resultaat paars gekleurd is en niet blauw, geeft ons een hint over een mogelijke reden; de paarse kleur betekent dat de gebruiker van voorbeeld A deze link in het verleden al bezocht heeft. Google heeft dit feit onthouden en brengt daarom de pagina opnieuw naar boven, en met meer prioriteit, in een poging de gezochte informatie waarvan de zoekmachine verwacht dat ze pertinent is, sneller te verschaffen.</p>
+
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/XxRQfqQ.jpg"><img height="420" width="400" src="http://i.imgur.com/XxRQfqQ.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding B</figcaption>
+</figure>
+
+
+<p></aside></p>
+
+<p>We beginnen onze voorbeelden met wat algemeen beschouwd wordt als dé zoekmachine der zoekmachines: Google. Het bewijs dat Google wel degelijk haar resultaten filtert is meteen geleverd. Doch het eerste resultaat hetzelfde is, zien we bij de respectievelijke nummers 2 al een verschil opduiken. Hoewel bij voorbeeld A een Wikipedia-pagina op nummer twee staat, is dat bij voorbeeld B een pagina van History Today. Dit resultaat komt bij voorbeeld A ook voor, maar dan op nummer 3. Bij de rest van de respectievelijke pagina&rsquo;s zijn de verschillen ook vooral terug te brengen op een kwestie van volgorde. Het meest opvallende verschil is resultaat nummer 8 van voorbeeld A: daar duikt een pagina van <em>www.washingtonblog.com</em> op, die niet terug te vinden is bij voorbeeld B. Het feit dat de link van dit resultaat paars gekleurd is en niet blauw, geeft ons een hint over een mogelijke reden; de paarse kleur betekent dat de gebruiker van voorbeeld A deze link in het verleden al bezocht heeft. Google heeft dit feit onthouden en brengt daarom de pagina opnieuw naar boven, en met meer prioriteit, in een poging de gezochte informatie waarvan de zoekmachine verwacht dat ze pertinent is, sneller te verschaffen. 826 × 1169</p>
 
 <p>Als conclusie kunnen we stellen dat Google zeker niet ontsnapt aan de waarheid die zich gepresenteerd heeft; het personaliseerd zoeken heeft de zoekresultaten voor de respectievelijke gebruikers zeker aangepast. Dit gezegd zijnde moet de magnitude van deze verschillen ook gerelativeerd worden. De verschillen zijn voornamelijk een kwestie van een verschil in volgorde, althans voor de eerste pagina. Wij kijken in deze steekproef niet verder dan de eerste pagina omdat wij menen dat er in het algemeen vooral aandacht wordt besteed aan de eerste pagina zoekresultaten. Wij kunnen ons als dusdanig voorstellen dat deze schijnbaar kleine verschillen op termijn, en wanneer geëxtrapoleerd naar een veel grotere steekproef, wel degelijk een reëel verschil kunnen maken. Wanneer een pagina die de zoekmachine beschouwt als minder relevant naar de tweede pagina wordt verwezen, of zelfs naar de lagere regionen van de eerste pagina, loopt men in onze optiek al het risico om deze pagina te missen. Een pagina die wel of niet gelezen wordt &mdash; als we dat idee opentrekken naar het wereldwijde gebruik van Google, durven wij ons voor te stellen dat daar noemenswaardige repercussies aan verbonden zijn.</p>
 
@@ -63,13 +110,23 @@
 
 <p>Probeer het zelf <a href="https://www.google.be/?gfe_rd=cr&amp;ei=ZYF1U8i0HIqwOu-6gIAE#q=Japanese+fascism">hier</a>.</p>
 
-<p>&mdash;&ndash; Afbeelding 3: &ldquo;Bing 1 &ndash; Kyra &ndash; Japanese Hosts&rdquo;</p>
+<p><aside class="figures"></p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding A: een voorbeeld van Bing Search, met zoekterm &#8220;Japanese hosts&rdquo;, uitgevoerd door de persoon die er onderzoek naar heeft gedaan.&#8221;</p>
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/Rr5FskG.jpg"><img height="420" width="400" src="http://i.imgur.com/Rr5FskG.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding A</figcaption>
+</figure>
 
-<p>&mdash;&ndash; Afbeelding 4: &ldquo;Bing 2 &ndash; Lieven &ndash; Japanese Hosts&rdquo;</p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding B: een voorbeeld van Bing Search, met zoekterm &#8220;Japanese hosts&rdquo;, uitgevoerd door de persoon die er nog nooit opzoekwerk over heeft gedaan.&#8221;</p>
+
+
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/QT3pHny.jpg"><img height="420" width="400" src="http://i.imgur.com/QT3pHny.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding B</figcaption>
+</figure>
+
+
+<p></aside></p>
 
 <p>In eerste instantie merken we dat de resultaten opmerkelijk gelijklopend lijken te zijn. Van de vijf afbeeldingen die in preview getoond worden bovenaan de pagina, er is maar één verschillend, en de eerste vijf zoekresultaten zijn opmerkelijk genoeg exact dezelfde. Maar dan duikt het verschil op, en wordt ook blootgelegd hoe de gepersonaliseerde zoekresultaten van Bing werken. Bij voorbeeld A, wiens gebruiker onderzoek doet naar <em>&ldquo;Japanese host clubs&rdquo;</em>, een vorm van Japans etablissement waar zich een nachtleven afspeelt, hebben zoekresultaat zes en zeven betrekking of deze specifieke betekenis van <em>&ldquo;host&rdquo;</em>. Natuurlijk, <em>&ldquo;host&rdquo;</em> is een Engels woord dat ook simpelweg gastheer betekent, in de zin van de persoon die een andere persoon in zijn huis ontvangt of onderbrengt. Bij voorbeeld B, wiens gebruiker geen specifiek opzoekwerk heeft gedaan naar deze host clubs, komen links naar boven die verwijzen naar de Japanse manier van gasten ontvangen. Als we bij voorbeeld A dan even verder gaan kijken, zien we dat deze links ook verschijnen, maar niet als nummer 6 en 7, maar als 8 en 9.</p>
 
@@ -77,13 +134,23 @@
 
 <p>Probeer het zelf <a href="http://www.bing.com/search?q=Japanese+hosts&amp;qs=n&amp;form=QBLH&amp;filt=all&amp;pq=japanese+hosts&amp;sc=0-13&amp;sp=-1&amp;sk=&amp;cvid=98e76e7ee015427d9015ff2a602e3200">hier</a>.</p>
 
-<p>&mdash;&ndash; Afbeelding 5: &ldquo;Ask com 1 &ndash; Sarah &ndash; Japanese Annexation of Korea&rdquo;</p>
+<p><aside class="figures"></p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding A: voorbeeld van zoekresultaten met Ask.com, uitgevoerd met zoekterm &#8220;Japanese Annexation of Korea&rdquo; door de persoon die daar onderzoek over heeft gedaan.</p>
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/Alxz5Eh.jpg"><img height="420" width="400" src="http://i.imgur.com/Alxz5Eh.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding A</figcaption>
+</figure>
 
-<p>&mdash;&ndash; Afbeelding 6: &ldquo;Ask com 2 &ndash; Lieven &ndash; Japanese Annexation of Korea&rdquo;</p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding B: voorbeeld van zoekresultaten met Ask.com, uitgevoerd met zoekterm &#8220;Japanese Annexation of Korea&rdquo; door de persoon die daar nog nooit onderzoek over heeft gedaan.</p>
+
+
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/ZbNQRAT.jpg"><img height="420" width="400" src="http://i.imgur.com/ZbNQRAT.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding B</figcaption>
+</figure>
+
+
+<p></aside></p>
 
 <p>Deze resultaten, op basis van een test met de zoekmachine Ask.com, lijken in eerste instantie vrij positief. De bovenste widget, met <em>&ldquo;explore answers about&rdquo;</em> is bij beide voorbeelden exact dezelfde. Ook de zoekresultaten lijken geen enorm grote invloed te ondervinden van de <em>&ldquo;filter bubble&rdquo;</em>. Er zijn echter wel kleine verschillen, zoals het artikel van www.basverbeek.be over de &ldquo;illegaliteit van de Koreaanse annexatie&rdquo;. Bij voorbeeld A, dat toebehoort aan de persoon die er onderzoek over doet, staat dit resultaat hoger, mogelijk omdat ze dat resultaat al eens bekeken heeft. Opvallend is ook het Youtube-filmpje dat onderaan de pagina opduikt bij voorbeeld A, en afwezig is bij voorbeeld B. De reden ligt waarschijnlijk in het feit dat de gebruiker van voorbeeld A dit filmpje in verband met haar paper bekeken heeft.</p>
 
@@ -91,29 +158,53 @@
 
 <p>Probeer het zelf <a href="http://www.ask.com/web?q=Japanese+Annexation+of+Korea&amp;qsrc=0&amp;o=0&amp;l=dir&amp;qo=homepageSearchBox">hier</a>.</p>
 
-<p>&mdash;&ndash; Afbeelding 7: &ldquo;Duck Duck Go 1 &ndash; Sarah &ndash; Japanese Annexation of Korea&rdquo;</p>
+<p><aside class="figures"></p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding A: voorbeeld van Duck Duck Go, uitgevoerd met zoekterm &#8220;Japanese Annexation of Korea&rdquo; door de persoon die er rond werkt voor haar paper.&#8221;</p>
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/Uw6RWZY.jpg"><img height="420" width="400" src="http://i.imgur.com/Uw6RWZY.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding A</figcaption>
+</figure>
 
-<p>&mdash;&ndash; Afbeelding 8: &ldquo;Duck Duck Go 2 &ndash; Lieven &ndash; Japanese Annexation of Korea&rdquo;</p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding B: voorbeeld van Duck Duck Go, uitgevoerd met zoekterm &#8220;Japanese Annexation of Korea&rdquo; door de persoon die er geen onderzoek rond heeft gedaan.&#8221;</p>
+
+
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/gFSWxmF.jpg"><img height="420" width="400" src="http://i.imgur.com/gFSWxmF.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding B</figcaption>
+</figure>
+
+
+<p></aside></p>
 
 <p>We zijn uiteraard bijzonder geïnteresseerd in de resultaten die we verkrijgen met de zoekmachine Duck Duck Go, aangezien zij slechts één doelstelling voorop zegt te stellen: zoekresultaten verschaffen zonder daarbij eender welke actie van de gebruiker te tracken en zonder de zoekresultaten te beïnvloeden. Nu, over de privacy-beloftes van Duck Duck Go kunnen we uit deze resultaten jammer genoeg geen echte conclusies trekken, maar in termen van de concrete effecten van een potentiële <em>filter bubble</em> kunnen we dat wel. De resultaten, zoals u kan zien, zijn helemaal dezelfde. Als u er zeker van wil zijn dat uw zoekresultaten bij een onderzoek niet onderhevig zullen zijn aan invloed van buitenaf, lijkt op basis van deze resultaten Duck Duck Go de meest passende oplossing.</p>
 
 <p>Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+Annexation+of+Korea">hier</a>.</p>
 
-<p>&mdash;&ndash; Afbeelding 9: &ldquo;Duck Duck Go 3 &ndash; Wim a &ndash; Japanese Linguistics Personal Pronouns&rdquo;</p>
+<p><aside class="figures"></p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding C: voorbeeld van Duck Duck Go, met zoekterm &#8220;Japanese linguistics personal pronouns&rdquo;, genomen door de persoon die er onderzoek rond doet, enkele weken voor voorbeeldafbeelding D en E genomen.&#8221;</p>
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/i86D6JP.jpg"><img height="420" width="275" src="http://i.imgur.com/i86D6JP.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding A</figcaption>
+</figure>
 
-<p>&mdash;&ndash; Afbeelding 10: &ldquo;Duck Duck Go 4 &ndash; Lieven &ndash; Japanese Linguistics Personal Pronouns&rdquo;</p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding D: voorbeeld van Duck Duck Go, met zoekterm &#8220;Japanese linguistics personal pronouns&rdquo;, genomen door de persoon die er geen onderzoek rond doet, enkele weken na voorbeeldafbeelding C genomen.&#8221;</p>
 
-<p>&mdash;&ndash; Afbeelding 11: &ldquo;Duck Duck Go 5 &ndash; Wim b &ndash; Japanese Linguistics Personal Pronouns&rdquo;</p>
 
-<p>Caption: &ldquo;Voorbeeldafbeelding E: voorbeeld van Duck Duck Go, met zoekterm Japanese linguistics personal pronouns&rdquo;, genomen door de persoon die er onderzoek rond doet (confer voorbeeldafbeelding C), enkele weken na voorbeeldafbeelding C genomen.&#8221;</p>
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/wz81CZA.jpg"><img height="420" width="275" src="http://i.imgur.com/wz81CZA.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding B</figcaption>
+</figure>
+
+
+
+
+<figure style="float: left; margin-bottom: 5px; margin-left: 2%; margin-right: 2%;">
+  <a href="http://i.imgur.com/H548jHG.jpg"><img height="420" width="275" src="http://i.imgur.com/H548jHG.jpg"></a>
+  <figcaption style="text-align: center; font-size: 9pt;">Voorbeeldafbeelding C</figcaption>
+</figure>
+
+
+<p></aside></p>
 
 <p>We hernemen hier snel Duck Duck Go om een kleine opmerking te maken. Hoewel het in principe onmogelijk is dat de zoekresultaten van Duck Duck Go onderhevig zijn aan invloed van buitenaf, via bijvoorbeeld <em>cookies</em>, is er één geval waarin de resultaten toch kunnen verschillen. Toen we deze steekproef origineel afnamen, en enkele weken later de resultaten vergeleken, constateerden we tot onze verrassing dat de zoekresultaten aanzienlijk verschilden. Dat stelde ons voor een raadsel. Zou Duck Duck Go op één of andere manier haar gebruikers een leugen voorspiegelen over haar anonieme kwaliteiten? Dat leek onwaarschijnlijk, want dan zou iemand dat ondertussen al wel gemerkt hebben.</p>
 
@@ -157,35 +248,35 @@
 <!-- more -->
 
 
-<p><strong>Mogelijkheid 1:</strong></p>
+<h3>Mogelijkheid 1</h3>
 
-<p>De zoekmachine Duck Duck Go is ontworpen als reactie op het gepersonaliseerd zoeken van de overige zoekmachines. Gabriel Weinberg richte zijn bedrijf, dat dezelfde naam draagt, op met de filosofie in het achterhoofd dat een gebruiker altijd anoniem moest kunnen zoeken. Bijgevolg houdt Duck Duck Go naar eigen zeggen geen enkele vorm van informatie inzake haar zoekopdrachten bij. Probeer het zelf op www.duckduckgo.com!</p>
+<p>De zoekmachine Duck Duck Go is ontworpen als reactie op het gepersonaliseerd zoeken van de overige zoekmachines. Gabriel Weinberg richte zijn bedrijf, dat dezelfde naam draagt, op met de filosofie in het achterhoofd dat een gebruiker altijd anoniem moest kunnen zoeken. Bijgevolg houdt Duck Duck Go naar eigen zeggen geen enkele vorm van informatie inzake haar zoekopdrachten bij. Probeer het zelf op <a href="https://duckduckgo.com/">www.duckduckgo.com</a>!</p>
 
-<p><strong>Mogelijkheid 2:</strong></p>
+<h3>Mogelijkheid 2</h3>
 
 <p><em>Cookies</em> zijn kleine bestanden die uw browser opslaat, en waarin bijvoorbeeld informatie zit over uw login-gegevens van een gegeven site. Via de doorlichting van deze bestandjes kunnen websites zoals Google veel te weten komen over hun gebruikers. U kan <em>cookies</em> die reeds opgeslagen zijn verwijderen, en uw browser ook zo instellen dat hij geen <em>cookies</em> meer bijhoudt. Voor een zogenaamde &ldquo;<em>cookieblock</em>&rdquo; kan u zich wenden tot een aantal extensies, zoals bijvoorbeeld &ldquo;BetterPrivacy&rdquo;.</p>
 
 <p>Het verwijderen van uw <em>cookies</em> kan u op verschillende manieren doen. Windowsgebruikers kunnen op het niveau van hun <em>operating system</em> <em>cookies</em> vernietigen door in het Start-menu naar instellingen te gaan. Onder &ldquo;configuratie&rdquo; vindt u &ldquo;Internet opties&rdquo;, waar een knop onder zit die als &ldquo;<em>Cookies</em> verwijderen&rdquo; gelabeld is.</p>
 
-<p>Indien u Internet Explorer gebruikt, kan u via het menu Extra naar &ldquo;Internetopties&rdquo; gaan. De tab &ldquo;Algemeen&rdquo; biedt u daar de mogelijkheid om uw &ldquo;browsegeschiedenis&rdquo; te verwijderen. Logischerwijze moet u daarbij &ldquo;<em>cookies</em>&rdquo; aanvinken. Er bestaat ook de mogelijkheid om <em>cookies</em> bij te houden tot het einde van de sessie, en ze daarop automatisch te laten verdwijnen wanneer u de browser afsluit. Daarvoor kan u de optie &ldquo;browsegeschiedenis verwijderen bij afsluiten&rdquo; gebruiken.</p>
+<p>Indien u <a href="http://windows.microsoft.com/nl-be/windows/home">Internet Explorer</a> gebruikt, kan u via het menu Extra naar &ldquo;Internetopties&rdquo; gaan. De tab &ldquo;Algemeen&rdquo; biedt u daar de mogelijkheid om uw &ldquo;browsegeschiedenis&rdquo; te verwijderen. Logischerwijze moet u daarbij &ldquo;<em>cookies</em>&rdquo; aanvinken. Er bestaat ook de mogelijkheid om <em>cookies</em> bij te houden tot het einde van de sessie, en ze daarop automatisch te laten verdwijnen wanneer u de browser afsluit. Daarvoor kan u de optie &ldquo;browsegeschiedenis verwijderen bij afsluiten&rdquo; gebruiken.</p>
 
-<p>Ook Firefoxgebruikers kunnen komaf maken met hun <em>cookies</em>. Via het Firefox menu kan men naar de tab &ldquo;Geschiedenis&rdquo; gaan, waar een optie onder te vinden is die &ldquo;Recente geschiedenis wissen&rdquo; heet. Na aan te hebben gegeven welke <em>cookies</em> u wilt verwijderen op basis van de ouderdom ervan, zal de browser ze weggooien. De optie om de <em>cookies</em> slechts bij te houden tot het einde van de sessie vindt u dan weer onder de tab &ldquo;Opties&rdquo;. Onder &ldquo;Privacy-instellingen&rdquo; kan u daarbij kiezen voor de mogelijkheid om de geschiedenis nooit te laten onthouden.</p>
+<p>Ook <a href="http://www.mozilla.org/nl/firefox/new/#">Firefox</a>gebruikers kunnen komaf maken met hun <em>cookies</em>. Via het Firefox menu kan men naar de tab &ldquo;Geschiedenis&rdquo; gaan, waar een optie onder te vinden is die &ldquo;Recente geschiedenis wissen&rdquo; heet. Na aan te hebben gegeven welke <em>cookies</em> u wilt verwijderen op basis van de ouderdom ervan, zal de browser ze weggooien. De optie om de <em>cookies</em> slechts bij te houden tot het einde van de sessie vindt u dan weer onder de tab &ldquo;Opties&rdquo;. Onder &ldquo;Privacy-instellingen&rdquo; kan u daarbij kiezen voor de mogelijkheid om de geschiedenis nooit te laten onthouden.</p>
 
-<p>Chromegebruikers, ten slotte, dienen te klikken op het menu-icoontje van de browser (dat eruit ziet als drie liggende streepjes), waarna ze via &ldquo;Browsegeschiedenis wissen&rdquo; hun <em>cookies</em> de vergetelheid in kunnen sturen. De optie om ze bij afsluiting van de browser te vernietigen, zit bij de browser van Google dan weer onder de privacy-instellingen. Bij de tab &ldquo;<em>Cookies</em>&rdquo; is het dan zaak de functie &ldquo;Lokale gegeven alleen bewaren tot ik mijn browser sluit&rdquo; aan te vinken.</p>
+<p><a href="https://www.google.com/intl/nl/chrome/browser/">Chrome</a>gebruikers, ten slotte, dienen te klikken op het menu-icoontje van de browser (dat eruit ziet als drie liggende streepjes), waarna ze via &ldquo;Browsegeschiedenis wissen&rdquo; hun <em>cookies</em> de vergetelheid in kunnen sturen. De optie om ze bij afsluiting van de browser te vernietigen, zit bij de browser van Google dan weer onder de privacy-instellingen. Bij de tab &ldquo;<em>Cookies</em>&rdquo; is het dan zaak de functie &ldquo;Lokale gegeven alleen bewaren tot ik mijn browser sluit&rdquo; aan te vinken.</p>
 
-<p><strong>Mogelijkheid 3:</strong></p>
+<h3>Mogelijkheid 3</h3>
 
-<p>Webpagina&rsquo;s bevatten soms zogenaamde &ldquo;trackers&rdquo;, die uitgebaat worden door een derde partij. Wanneer u dan zulke sites bezoekt, zal bepaalde informatie, die voor de derde partij interessant is (voornamelijk vanwege advertentie-mogelijkheden), doorgegeven worden. Er zijn echter <em>add-ons</em> die zulke <em>trackers</em> blokkeren. &ldquo;DisConnect&rdquo; en &ldquo;DoNotTrackMe&rdquo; zijn er slechts enkele van. Zulke plug-ins kunnen gedownload en geïnstalleerd worden via hun eigen webpagina, maar komen ook vaak naar boven in de gespecialiseerde <em>add-on stores</em> die de bedrijven achter browsers als Firefox en Google Chrome onderhouden.</p>
+<p>Webpagina&rsquo;s bevatten soms zogenaamde <em>&ldquo;trackers&rdquo;</em>, die uitgebaat worden door een derde partij. Wanneer u dan zulke sites bezoekt, zal bepaalde informatie, die voor de derde partij interessant is (voornamelijk vanwege advertentie-mogelijkheden), doorgegeven worden. Er zijn echter <em>add-ons</em> die zulke <em>trackers</em> blokkeren. <a href="https://disconnect.me/">&ldquo;DisConnect&rdquo;</a> en <a href="http://www.abine.com/index.html">&ldquo;DoNotTrackMe&rdquo;</a> zijn er slechts enkele van. Zulke plug-ins kunnen gedownload en geïnstalleerd worden via hun eigen webpagina, maar komen ook vaak naar boven in de gespecialiseerde <em>add-on stores</em> die de bedrijven achter browsers als Firefox en Google Chrome onderhouden.</p>
 
-<p><strong>Mogelijkheid 4:</strong></p>
+<h3>Mogelijkheid 4</h3>
 
 <p>Als het gaat om data-mijnen, kunnen we niet om Facebook heen; het bedrijf van Mark Zuckerberg is één van de meest lucratieve internetondernemingen op deze planeet, en heeft veel van haar winsten te danken aan de grootscheepse verzameling van data over haar gebruikers, iets waar het bedrijf dezer dagen steeds meer kritiek over naar de oren geslingerd krijgt. De kans is reëel dat u lid bent van Facebook; indien dat zo is, kan u al veel potentiële schade vermijden door uw privacy-instellingen aan te passen. De <a href="https://www.facebook.com/help/?topic=privacy">hulppagina</a> van de site zelf kan u daar bij helpen.</p>
 
-<p>Voorts kan u ook vermijden dat zoekmachines als Microsofts Bing gebruik maken van uw Facebook-gebruikersinformatie. Dat doet u door naar het menu &ldquo;Privacy Shortcuts&rdquo; te gaan. De optie &ldquo;Apps&rdquo; bevindt zich onder &ldquo;Meer opties&rdquo;, en biedt de mogelijkheid om &ldquo;Instant Personalisation&rdquo; uit te vinken. Dat zal Facebook grotendeels tegenhouden in het graven naar uw surfgewoonten.</p>
+<p>Voorts kan u ook vermijden dat zoekmachines als Microsofts Bing gebruik maken van uw Facebook-gebruikersinformatie. Dat doet u door naar het menu <em>&ldquo;Privacy Shortcuts&rdquo;</em> te gaan. De optie <em>&ldquo;Apps&rdquo; </em>bevindt zich onder &ldquo;Meer opties&rdquo;, en biedt de mogelijkheid om &ldquo;Instant Personalisation&rdquo; uit te vinken. Dat zal Facebook grotendeels tegenhouden in het graven naar uw surfgewoonten.</p>
 
-<p><strong>Mogelijkheid 5:</strong></p>
+<h3>Mogelijkheid 5</h3>
 
-<p>Er bestaat een hele resem aan extensies voor de grote browsers die u kunnen helpen bij het verbergen van uw surfgedrag. &ldquo;Keep my opt-outs&rdquo; is een aanrader voor Chromegebruikers, en voor Firefox kan de optie &ldquo;Do not track&rdquo; simpelweg aangevinkt worden. Daarnaast hebben de meeste browsers tegenwoordig een &ldquo;private browsing&rdquo; mode, die specifiek bedoeld is voor surfsessies waar geen sporen van overblijven. Ten slotte zijn er ook de browsers die hun netwerkdestinaties via encryptie verbergen voor <em>trackers</em>. De meest beruchte van deze gespecialiseerde browsers is waarschijnlijk Tor, al sleept die een eerder negatieve reputatie met zich mee omdat hij wel eens wordt aangewend voor louche en criminele activiteiten.</p>
+<p>Er bestaat een hele resem aan extensies voor de grote browsers die u kunnen helpen bij het verbergen van uw surfgedrag. <a href="https://chrome.google.com/webstore/detail/keep-my-opt-outs/hhnjdplhmcnkiecampfdgfjilccfpfoe?hl=en"><em>&ldquo;Keep my opt-outs&rdquo;</em></a> is een aanrader voor Chromegebruikers, en voor Firefox kan de optie <em>&ldquo;Do not track&rdquo;</em> simpelweg aangevinkt worden. Daarnaast hebben de meeste browsers tegenwoordig een <em>&ldquo;private browsing&rdquo;</em> mode, die specifiek bedoeld is voor surfsessies waar geen sporen van overblijven. Ten slotte zijn er ook de browsers die hun netwerkdestinaties via encryptie verbergen voor <em>trackers</em>. De meest beruchte van deze gespecialiseerde browsers is waarschijnlijk Tor, al sleept die een eerder negatieve reputatie met zich mee omdat hij wel eens wordt aangewend voor louche en criminele activiteiten.</p>
 
 <p>Als u al de hierboven beschreven stappen uitvoert, zal u vrijwel anoniem kunnen surfen, maar u levert er wel bepaalde gebruiksgemakken voor in. Of u bereidt bent het ene voor het andere te ruilen, kan u beslissen nadat u onze pagina&rsquo;s heeft gelezen over de voordelen en de nadelen van de filter bubble.</p>
 ]]></content>
