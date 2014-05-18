@@ -2,3 +2,12 @@
 // Add styles here to make changes without digging in too much
 
 .row{margin-left:-300px;margin-right:-300px}
+
+aside.figures {
+	overflow:hidden; /* only needed if floating the child elements instead of using inline-block */
+}
+
+aside.figures figure {
+	display: inline-block;
+	border: 1px dotted;
+}
