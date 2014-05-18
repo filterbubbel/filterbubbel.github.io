@@ -4,7 +4,7 @@
   <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-05-18T21:23:43+02:00</updated>
+  <updated>2014-05-18T21:26:58+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
     <name><![CDATA[Search Ency 2014]]></name>
@@ -102,13 +102,12 @@ arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/vi
 
 <p></aside></p>
 
-<p>We beginnen onze voorbeelden met wat algemeen beschouwd wordt als dé zoekmachine der zoekmachines: Google. Het bewijs dat Google wel degelijk haar resultaten filtert is meteen geleverd. Doch het eerste resultaat hetzelfde is, zien we bij de respectievelijke nummers 2 al een verschil opduiken. Hoewel bij voorbeeld A een Wikipedia-pagina op nummer twee staat, is dat bij voorbeeld B een pagina van History Today. Dit resultaat komt bij voorbeeld A ook voor, maar dan op nummer 3. Bij de rest van de respectievelijke pagina&rsquo;s zijn de verschillen ook vooral terug te brengen op een kwestie van volgorde. Het meest opvallende verschil is resultaat nummer 8 van voorbeeld A: daar duikt een pagina van <em>www.washingtonblog.com</em> op, die niet terug te vinden is bij voorbeeld B. Het feit dat de link van dit resultaat paars gekleurd is en niet blauw, geeft ons een hint over een mogelijke reden; de paarse kleur betekent dat de gebruiker van voorbeeld A deze link in het verleden al bezocht heeft. Google heeft dit feit onthouden en brengt daarom de pagina opnieuw naar boven, en met meer prioriteit, in een poging de gezochte informatie waarvan de zoekmachine verwacht dat ze pertinent is, sneller te verschaffen. 826 × 1169</p>
+<p>We beginnen onze voorbeelden met wat algemeen beschouwd wordt als dé zoekmachine der zoekmachines: Google. Het bewijs dat Google wel degelijk haar resultaten filtert is meteen geleverd. Doch het eerste resultaat hetzelfde is, zien we bij de respectievelijke nummers 2 al een verschil opduiken. Hoewel bij voorbeeld A een Wikipedia-pagina op nummer twee staat, is dat bij voorbeeld B een pagina van History Today. Dit resultaat komt bij voorbeeld A ook voor, maar dan op nummer 3. Bij de rest van de respectievelijke pagina&rsquo;s zijn de verschillen ook vooral terug te brengen op een kwestie van volgorde. Het meest opvallende verschil is resultaat nummer 8 van voorbeeld A: daar duikt een pagina van <em>www.washingtonblog.com</em> op, die niet terug te vinden is bij voorbeeld B. Het feit dat de link van dit resultaat paars gekleurd is en niet blauw, geeft ons een hint over een mogelijke reden; de paarse kleur betekent dat de gebruiker van voorbeeld A deze link in het verleden al bezocht heeft. Google heeft dit feit onthouden en brengt daarom de pagina opnieuw naar boven, en met meer prioriteit, in een poging de gezochte informatie waarvan de zoekmachine verwacht dat ze pertinent is, sneller te verschaffen.</p>
 
 <p>Als conclusie kunnen we stellen dat Google zeker niet ontsnapt aan de waarheid die zich gepresenteerd heeft; het personaliseerd zoeken heeft de zoekresultaten voor de respectievelijke gebruikers zeker aangepast. Dit gezegd zijnde moet de magnitude van deze verschillen ook gerelativeerd worden. De verschillen zijn voornamelijk een kwestie van een verschil in volgorde, althans voor de eerste pagina. Wij kijken in deze steekproef niet verder dan de eerste pagina omdat wij menen dat er in het algemeen vooral aandacht wordt besteed aan de eerste pagina zoekresultaten. Wij kunnen ons als dusdanig voorstellen dat deze schijnbaar kleine verschillen op termijn, en wanneer geëxtrapoleerd naar een veel grotere steekproef, wel degelijk een reëel verschil kunnen maken. Wanneer een pagina die de zoekmachine beschouwt als minder relevant naar de tweede pagina wordt verwezen, of zelfs naar de lagere regionen van de eerste pagina, loopt men in onze optiek al het risico om deze pagina te missen. Een pagina die wel of niet gelezen wordt &mdash; als we dat idee opentrekken naar het wereldwijde gebruik van Google, durven wij ons voor te stellen dat daar noemenswaardige repercussies aan verbonden zijn.</p>
 
-<p>Wij onthouden er ons evenwel van echte conclusies te trekken in dit verband, vanwege de zeer kleine schaal waarop de steekproef werd uitgevoerd. Wat we wel kunnen afleiden is het volgende; wie Google Search gebruikt, krijgt zoekresultaten die onderhevig zijn aan de effecten van aangepaste zoekresultaten.</p>
-
-<p>Probeer het zelf <a href="https://www.google.be/?gfe_rd=cr&amp;ei=ZYF1U8i0HIqwOu-6gIAE#q=Japanese+fascism">hier</a>.</p>
+<p>Wij onthouden er ons evenwel van echte conclusies te trekken in dit verband, vanwege de zeer kleine schaal waarop de steekproef werd uitgevoerd. Wat we wel kunnen afleiden is het volgende; wie Google Search gebruikt, krijgt zoekresultaten die onderhevig zijn aan de effecten van aangepaste zoekresultaten.<br/>
+Probeer het zelf <a href="https://www.google.be/?gfe_rd=cr&amp;ei=ZYF1U8i0HIqwOu-6gIAE#q=Japanese+fascism">hier</a>.</p>
 
 <p><aside class="figures"></p>
 
@@ -130,9 +129,8 @@ arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/vi
 
 <p>In eerste instantie merken we dat de resultaten opmerkelijk gelijklopend lijken te zijn. Van de vijf afbeeldingen die in preview getoond worden bovenaan de pagina, er is maar één verschillend, en de eerste vijf zoekresultaten zijn opmerkelijk genoeg exact dezelfde. Maar dan duikt het verschil op, en wordt ook blootgelegd hoe de gepersonaliseerde zoekresultaten van Bing werken. Bij voorbeeld A, wiens gebruiker onderzoek doet naar <em>&ldquo;Japanese host clubs&rdquo;</em>, een vorm van Japans etablissement waar zich een nachtleven afspeelt, hebben zoekresultaat zes en zeven betrekking of deze specifieke betekenis van <em>&ldquo;host&rdquo;</em>. Natuurlijk, <em>&ldquo;host&rdquo;</em> is een Engels woord dat ook simpelweg gastheer betekent, in de zin van de persoon die een andere persoon in zijn huis ontvangt of onderbrengt. Bij voorbeeld B, wiens gebruiker geen specifiek opzoekwerk heeft gedaan naar deze host clubs, komen links naar boven die verwijzen naar de Japanse manier van gasten ontvangen. Als we bij voorbeeld A dan even verder gaan kijken, zien we dat deze links ook verschijnen, maar niet als nummer 6 en 7, maar als 8 en 9.</p>
 
-<p>Dat verschil lijkt verwaarloosbaar, en wij kunnen ook niet stellen dat het werkelijk opzienbarend is, maar het bewijst wel één ding; de zoekmachine Bing wist dat de gebruiker van voorbeeld A reeds gezocht had naar links die gaan over <em>&ldquo;Japanese host clubs&rdquo;</em>, en maakte van die informatie gebruik om prioriteit te geven aan links die daarop betrekking hadden, in plaats van de links die over de andere invulling van de term <em>&ldquo;Japanese hosts&rdquo;</em> gingen. Daarbij is het zo dat gebruiker A Bing nog niet heeft gebruikt om opzoekwerk te doen in verband met haar paper: dat wijst erop dat Bing deze informatie wist op te halen zonder dat daarvoor Bing zelf reeds gebruikt moest worden. Wat de precieze bron is van deze informatie is ons onbekend, maar het is niet onvoorstelbaar dat de website gebruik maakte van haar <em>cookies</em> om reeds bezochte sites over <em>&ldquo;Japanese host clubs&rdquo;</em> naar voren te schuiven.</p>
-
-<p>Probeer het zelf <a href="http://www.bing.com/search?q=Japanese+hosts&amp;qs=n&amp;form=QBLH&amp;filt=all&amp;pq=japanese+hosts&amp;sc=0-13&amp;sp=-1&amp;sk=&amp;cvid=98e76e7ee015427d9015ff2a602e3200">hier</a>.</p>
+<p>Dat verschil lijkt verwaarloosbaar, en wij kunnen ook niet stellen dat het werkelijk opzienbarend is, maar het bewijst wel één ding; de zoekmachine Bing wist dat de gebruiker van voorbeeld A reeds gezocht had naar links die gaan over <em>&ldquo;Japanese host clubs&rdquo;</em>, en maakte van die informatie gebruik om prioriteit te geven aan links die daarop betrekking hadden, in plaats van de links die over de andere invulling van de term <em>&ldquo;Japanese hosts&rdquo;</em> gingen. Daarbij is het zo dat gebruiker A Bing nog niet heeft gebruikt om opzoekwerk te doen in verband met haar paper: dat wijst erop dat Bing deze informatie wist op te halen zonder dat daarvoor Bing zelf reeds gebruikt moest worden. Wat de precieze bron is van deze informatie is ons onbekend, maar het is niet onvoorstelbaar dat de website gebruik maakte van haar <em>cookies</em> om reeds bezochte sites over <em>&ldquo;Japanese host clubs&rdquo;</em> naar voren te schuiven.<br/>
+Probeer het zelf <a href="http://www.bing.com/search?q=Japanese+hosts&amp;qs=n&amp;form=QBLH&amp;filt=all&amp;pq=japanese+hosts&amp;sc=0-13&amp;sp=-1&amp;sk=&amp;cvid=98e76e7ee015427d9015ff2a602e3200">hier</a>.</p>
 
 <p><aside class="figures"></p>
 
@@ -154,9 +152,8 @@ arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/vi
 
 <p>Deze resultaten, op basis van een test met de zoekmachine Ask.com, lijken in eerste instantie vrij positief. De bovenste widget, met <em>&ldquo;explore answers about&rdquo;</em> is bij beide voorbeelden exact dezelfde. Ook de zoekresultaten lijken geen enorm grote invloed te ondervinden van de <em>&ldquo;filter bubble&rdquo;</em>. Er zijn echter wel kleine verschillen, zoals het artikel van www.basverbeek.be over de &ldquo;illegaliteit van de Koreaanse annexatie&rdquo;. Bij voorbeeld A, dat toebehoort aan de persoon die er onderzoek over doet, staat dit resultaat hoger, mogelijk omdat ze dat resultaat al eens bekeken heeft. Opvallend is ook het Youtube-filmpje dat onderaan de pagina opduikt bij voorbeeld A, en afwezig is bij voorbeeld B. De reden ligt waarschijnlijk in het feit dat de gebruiker van voorbeeld A dit filmpje in verband met haar paper bekeken heeft.</p>
 
-<p>Ook bij Ask.com kunnen we dus vaststellen dat de zoekresultaten zich aanpassen aan de gebruiker die ze ingeeft. Hoewel we ten alle tijden indachtig blijven dat deze steekproef te klein is om harde, algemene conclusies te kunnen trekken, kunnen we wel zeggen dat de resultaten van Ask.com in dit geval eerder minimaal verschillen tussen iemand die al wat op het net heeft gewerkt rond het thema van de Koreaanse annexatie in vergelijking met iemand die er, althans recent, niets over heeft opgezocht.</p>
-
-<p>Probeer het zelf <a href="http://www.ask.com/web?q=Japanese+Annexation+of+Korea&amp;qsrc=0&amp;o=0&amp;l=dir&amp;qo=homepageSearchBox">hier</a>.</p>
+<p>Ook bij Ask.com kunnen we dus vaststellen dat de zoekresultaten zich aanpassen aan de gebruiker die ze ingeeft. Hoewel we ten alle tijden indachtig blijven dat deze steekproef te klein is om harde, algemene conclusies te kunnen trekken, kunnen we wel zeggen dat de resultaten van Ask.com in dit geval eerder minimaal verschillen tussen iemand die al wat op het net heeft gewerkt rond het thema van de Koreaanse annexatie in vergelijking met iemand die er, althans recent, niets over heeft opgezocht. <br/>
+Probeer het zelf <a href="http://www.ask.com/web?q=Japanese+Annexation+of+Korea&amp;qsrc=0&amp;o=0&amp;l=dir&amp;qo=homepageSearchBox">hier</a>.</p>
 
 <p><aside class="figures"></p>
 
@@ -176,9 +173,8 @@ arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/vi
 
 <p></aside></p>
 
-<p>We zijn uiteraard bijzonder geïnteresseerd in de resultaten die we verkrijgen met de zoekmachine Duck Duck Go, aangezien zij slechts één doelstelling voorop zegt te stellen: zoekresultaten verschaffen zonder daarbij eender welke actie van de gebruiker te tracken en zonder de zoekresultaten te beïnvloeden. Nu, over de privacy-beloftes van Duck Duck Go kunnen we uit deze resultaten jammer genoeg geen echte conclusies trekken, maar in termen van de concrete effecten van een potentiële <em>filter bubble</em> kunnen we dat wel. De resultaten, zoals u kan zien, zijn helemaal dezelfde. Als u er zeker van wil zijn dat uw zoekresultaten bij een onderzoek niet onderhevig zullen zijn aan invloed van buitenaf, lijkt op basis van deze resultaten Duck Duck Go de meest passende oplossing.</p>
-
-<p>Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+Annexation+of+Korea">hier</a>.</p>
+<p>We zijn uiteraard bijzonder geïnteresseerd in de resultaten die we verkrijgen met de zoekmachine Duck Duck Go, aangezien zij slechts één doelstelling voorop zegt te stellen: zoekresultaten verschaffen zonder daarbij eender welke actie van de gebruiker te tracken en zonder de zoekresultaten te beïnvloeden. Nu, over de privacy-beloftes van Duck Duck Go kunnen we uit deze resultaten jammer genoeg geen echte conclusies trekken, maar in termen van de concrete effecten van een potentiële <em>filter bubble</em> kunnen we dat wel. De resultaten, zoals u kan zien, zijn helemaal dezelfde. Als u er zeker van wil zijn dat uw zoekresultaten bij een onderzoek niet onderhevig zullen zijn aan invloed van buitenaf, lijkt op basis van deze resultaten Duck Duck Go de meest passende oplossing.<br/>
+Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+Annexation+of+Korea">hier</a>.</p>
 
 <p><aside class="figures"></p>
 
@@ -210,9 +206,8 @@ arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/vi
 
 <p>De verklaring, zo bleek, lag in het feit dat Duck Duck Go om de zoveel tijd intern haar database opkuist en de zoekresultaten die verbonden zijn met een zoekterm zo herschudt en aanpast. In de tijdsspanne van drie weken tussen de originele proef en de resultatenvergelijking, was er blijkbaar een danig database-onderhoud doorgevoerd, wat de resultaten had beïnvloed. Dat bewezen we door nogmaals een poging te wagen. Zoals u kan zien, is voorbeeld C (de originele zoekresultaten) verschillend van het punt van vergelijking, voorbeeld D. Maar toen we na onze kortstondige verwarring bij onze tweede poging voorbeeld E voor onze neus kregen, wisten we dat het opgelost was; voorbeeld D en E zijn identiek.</p>
 
-<p>Over Duck Duck Go blijft onze conclusie dus geldig; het is dé zoekmachine voor gebruikers die geen aangepaste zoekresultaten willen.</p>
-
-<p>Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+linguistics+personal+pronouns">hier</a>.</p>
+<p>Over Duck Duck Go blijft onze conclusie dus geldig; het is dé zoekmachine voor gebruikers die geen aangepaste zoekresultaten willen.<br/>
+Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+linguistics+personal+pronouns">hier</a>.</p>
 ]]></content>
   </entry>
   
