@@ -1,17 +1,10 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-.row{margin-left:-275px;margin-right: auto;}
+.row{margin-left:-275px;margin-right: -300px;}
 
-em {
-	font-style: italic;
-}
+em {font-style: italic;}
 
-aside.figures {
-	overflow:hidden; /* only needed if floating the child elements instead of using inline-block */
-}
+aside.figures {overflow:hidden; /* only needed if floating the child elements instead of using inline-block */}
 
-aside.figures figure {
-	display: inline-block;
-	border: 1px dotted;
-}
+aside.figures figure {display: inline-block; border: 1px dotted;}
