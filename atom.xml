@@ -4,7 +4,7 @@
   <title><![CDATA[Filterbubbel]]></title>
   <link href="http://filterbubbel.github.io/atom.xml" rel="self"/>
   <link href="http://filterbubbel.github.io/"/>
-  <updated>2014-05-18T22:11:50+02:00</updated>
+  <updated>2014-05-20T10:33:24+02:00</updated>
   <id>http://filterbubbel.github.io/</id>
   <author>
     <name><![CDATA[Search Ency 2014]]></name>
@@ -14,48 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Lees Verder]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/06/lees-verder/"/>
-    <updated>2014-05-06T19:31:24+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/06/lees-verder</id>
-    <content type="html"><![CDATA[<p>Om meer informatie te vinden over de voor- en nadelen van de <em>filter bubble</em> en hoe hem tegen te gaan verwijzen we u graag naar onze leeslijst.</p>
-
-<!-- more -->
-
-
-<h3>Boeken</h3>
-
-<p>Eli Pariser <a href="http://www.amazon.co.uk/The-Filter-Bubble-Internet-Hiding/dp/0241954525">The Filter Bubble: What The Internet Is Hiding From Us</a><br/>
-Eli Pariser schreef dit boek over het fenomeen dat hij de <em>&ldquo;filter bubble&rdquo;</em> noemt en spreekt over de gevolgen van deze <em>&ldquo;bubble&rdquo;</em>.</p>
-
-<h3>Artikels</h3>
-
-<p>Over voordelen van de <em>filter bubble</em>:<br/>
-Louis Gray <a href="http://blog.louisgray.com/2011/05/why-filter-bubble-is-no-bubble-and-its.html">Why The Filter Bubble Is No Bubble and It&rsquo;s Not Bad Either</a></p>
-
-<p>Over gevaren van de <em>filter bubble</em>:<br/>
-Eli Pariser voor The Filter Bubbel <a href="http://www.thefilterbubble.com/web-inventor-tim-berners-lee-weighs-in-theres-danger-in-the-filter-bubble">Web inventor Tim Berners-Lee weighs in: “There’s danger in the filter bubble”</a></p>
-
-<p>Over de <em>filter bubble</em> en web-personalisatie:<br/>
-Jacob Weisberg voor Slate <a href="http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html">Bubble Trouble</a></p>
-
-<p>Over de <em>filter bubble</em> en zijn relatie met bedrijven:<br/>
-Randy Brians voor Beegood Marketing <a href="http://business.beegoodmarketing.com/what-the-filter-bubble-means-to-progressive-businesses/">What the “Filter Bubble” Means to Progressive Businesses</a></p>
-
-<p>Over het tegengaan van de <em>filter bubble</em>:<br/>
-Mike Elgan voor Computerworld <a href="http://www.computerworld.com/s/article/9216484/Elgan_How_to_pop_your_Internet_filter_bubble_?taxonomyId=167&amp;pageNumber=3">How to pop your Internet &lsquo;filter bubble&rsquo;</a><br/>
-arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/">How to Burst the &ldquo;Filter Bubble&rdquo; that Protects Us from Opposing Views</a></p>
-
-<p>Duck Duck Go is een zoekmachine die geen gebruik maakt van de <em>filter bubble</em>, en daarom een veiligere optie kan zijn om op het web te surfen. Hun <em><a href="https://duckduckgo.com/about">&ldquo;About&rdquo;</a></em> pagina biedt meer informatie over hoe deze zoekmachine werkt. De <em>developers</em> achter Duck Duck Go hebben ook webpagina&rsquo;s aangemaakt over respectievelijk <a href="http://dontbubble.us/">de <em>filter bubble</em> en zijn gevolgen</a>, en <a href="http://fixtracking.com/">hoe hem tegen te gaan</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Voorgeschiedenis]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/05/voorgeschiedenis/"/>
-    <updated>2014-05-05T13:50:06+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/05/voorgeschiedenis</id>
-    <content type="html"><![CDATA[<p>Op 4 december 2009 pakte Google uit met een opzienbarende vernieuwing; de zogenaamde <em>personalised search</em>, ook wel &ldquo;privé zoeken&rdquo; in het Nederlands. Vanaf dat moment zouden de zoekresultaten van elke individuele gebruiker automatisch aangepast worden aan wat de zoekmachine beschouwde als de meest pertinente vondsten, op basis van bepaalde parameters die opgemeten en bijgehouden werden. De reden voor deze aanpassing, zo stelde Google, was dat de hoeveelheid data die op het internet te doorspitten is, zodanig enorm was geworden dat aangepaste zoekresultaten het vinden van de gewenste informatie aanzienlijk zou vergemakkelijken.</p>
+    <link href="http://filterbubbel.github.io/blog/2014/05/16/voorgeschiedenis/"/>
+    <updated>2014-05-16T20:00:01+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/16/voorgeschiedenis</id>
+    <content type="html"><![CDATA[<p>Op 4 december 2009 pakte Google uit met een opzienbarende vernieuwing; de zogenaamde <em>personalised search</em>, ook wel &ldquo;gepersonaliseerd zoeken&rdquo; in het Nederlands. Vanaf dat moment zouden de zoekresultaten van elke individuele gebruiker automatisch aangepast worden aan wat de zoekmachine beschouwde als de meest pertinente vondsten, op basis van bepaalde parameters die opgemeten en bijgehouden werden. De reden voor deze aanpassing, zo stelde Google, was dat de hoeveelheid data die op het internet te doorspitten is, zodanig enorm was geworden dat aangepaste zoekresultaten het vinden van de gewenste informatie aanzienlijk zou vergemakkelijken.</p>
 
 <!-- more -->
 
@@ -66,15 +29,15 @@ arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/vi
 
 <p>Die laatste pijler werd alleen maar versterkt toen grote internetondernemingen als Youtube, de zoekmachine Yahoo, Facebook, enzovoort in navolging van Google gelijkaardige algoritmes toe begonnen te passen op hun websites en applicaties. Ook zij haalden het scheppen van orde in de chaos van het internet aan als reden, maar in werkelijkheid waren ook web-advertenties een belangrijke factor. Het verzamelen van data over elke gebruiker stelt deze giganten er namelijk toe in staat hun reclame af te stemmen op persoonlijke interesses, wat de effectiviteit en de financiële waarde ervan enorm vergroot. Ook internetwinkels als de immens populaire Amazon beseften het potentieel: het aanbrengen van producten, gebaseerd op de voorkeuren van de internetwinkelaar, had zeer positieve effecten op hun jaarlijkse opbrengsten. Daarnaast brengt het data-mijnen van deze bedrijven bepaalde implicaties met zich mee over de privacy van de gebruiker. Sinds het PRISM-incident, dat op gang werd gebracht door Edward Snowden, is tevens gebleken dat deze bedrijven door hun overheden verplicht kunnen worden persoonlijke informatie te delen, wat extra olie op het vuur heeft gegooid.</p>
 
-<p>Dit alles gezegd zijnde heeft personalised search zeker een aantal voordelen voor de eindgebruiker, en kunnen er langs de andere kant ook stappen ondernomen worden om de effecten van de <em>filter bubble</em> te minimaliseren. Over dat laatste kunt u tips vinden op deze blog.</p>
+<p>Dit alles gezegd zijnde heeft personalised search zeker een aantal voordelen voor de eindgebruiker, en kunnen er langs de andere kant ook stappen ondernomen worden om de effecten van de <em>filter bubble</em> te minimaliseren. <a href="http://filterbubbel.github.io/blog/2014/05/16/tegenmaatregelen/">Over dat laatste kunt u tips vinden op deze blog.</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Concrete Effecten]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/04/concrete-effecten/"/>
-    <updated>2014-05-04T13:50:16+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/04/concrete-effecten</id>
+    <link href="http://filterbubbel.github.io/blog/2014/05/16/concrete-effecten/"/>
+    <updated>2014-05-16T19:00:02+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/16/concrete-effecten</id>
     <content type="html"><![CDATA[<p>Het is gemakkelijk om zomaar te verklaren dat de <em>filter bubble</em> een invloed uitoefent op de manier waarop wij als internetsurfers informatie vergaren, maar we kunnen er pas werkelijk zeker van zijn dat er iets van de kritiek aan is als we het met eigen ogen gezien hebben. Om die reden hebben wij een piepkleine steekproef uitgevoerd. Het groepje dat deze website heeft gemaakt en de inhoud ervan heeft onderzocht en uitgeschreven, bestaat uit acht mensen. We vroegen ons af of we zelf zouden kunnen verifiëren in hoeverre zoekmachines als Google, Ask.com en Bing verschillende zoekresultaten naar voren schoven, afhankelijk van de gebruiker, en of het echt waar was dat Duck Duck Go volledig neutraal en <em>filter bubble</em>-loos was.</p>
 
 <!-- more -->
@@ -213,10 +176,10 @@ Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+linguistics+persona
   
   <entry>
     <title type="html"><![CDATA[Voordelen]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/03/voordelen/"/>
-    <updated>2014-05-03T13:50:59+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/03/voordelen</id>
-    <content type="html"><![CDATA[<p>De term <em>&ldquo;filter bubble&rdquo;</em> torst een eerder negatieve connotatie met zich mee. In 2009 ging Google nog tuk op haar gepersonaliseerde zoekresultaten, die het vinden van de juiste informatie moesten vergemakkelijken, maar sindsdien heeft het concept allerlei criticasters te verwerken gekregen, die de &ldquo;bubbel&rdquo; beschouwen als een absolute beknotting van de vrijheid om nieuwe informatie te ontdekken en verwerken. Naast de bezorgdheden rond privacy, zo stelt onder andere Eli Pariser, die de term <em>&ldquo;filter bubble&rdquo;</em> populair maakte, zorgt het er immers voor dat surfers de mogelijkheid mislopen om hun visie te verbreden door contacten met webpagina&rsquo;s waar meningen op gepropageerd worden die niet overeen komen met de hunne. We moeten echter trachten genuanceerd te zijn: dat het surfgedrag van een persoon opgevolgd wordt om meer gerichte reclame te kunnen genereren is één zaak, maar in het idee van Google zitten desondanks ook potentieële voordelen. Op deze pagina bekijken we welke argumenten er ter ondersteuning van het bestaan van een danige filter bubble gesteld kunnen worden. Voor een bespreking van de nadelen verwijzen wij u graag door naar de tegenhangende tekst.</p>
+    <link href="http://filterbubbel.github.io/blog/2014/05/16/voordelen/"/>
+    <updated>2014-05-16T18:00:03+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/16/voordelen</id>
+    <content type="html"><![CDATA[<p>De term <em>&ldquo;filter bubble&rdquo;</em> torst een eerder negatieve connotatie met zich mee. In 2009 ging Google nog tuk op haar gepersonaliseerde zoekresultaten, die het vinden van de juiste informatie moesten vergemakkelijken, maar sindsdien heeft het concept allerlei criticasters te verwerken gekregen, die de &ldquo;bubbel&rdquo; beschouwen als een absolute beknotting van de vrijheid om nieuwe informatie te ontdekken en verwerken. Naast de bezorgdheden rond privacy, zo stelt onder andere Eli Pariser, die de term <em>&ldquo;filter bubble&rdquo;</em> populair maakte, zorgt het er immers voor dat surfers de mogelijkheid mislopen om hun visie te verbreden door contacten met webpagina&rsquo;s waar meningen op gepropageerd worden die niet overeen komen met de hunne. We moeten echter trachten genuanceerd te zijn: dat het surfgedrag van een persoon opgevolgd wordt om meer gerichte reclame te kunnen genereren is één zaak, maar in het idee van Google zitten desondanks ook potentieële voordelen. Op deze pagina bekijken we welke argumenten er ter ondersteuning van het bestaan van een danige filter bubble gesteld kunnen worden. Voor een bespreking van de <a href="http://filterbubbel.github.io/blog/2014/05/16/nadelen/">nadelen</a> verwijzen wij u graag door naar de tegenhangende tekst.</p>
 
 <!-- more -->
 
@@ -234,11 +197,37 @@ Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+linguistics+persona
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Nadelen]]></title>
+    <link href="http://filterbubbel.github.io/blog/2014/05/16/nadelen/"/>
+    <updated>2014-05-16T17:00:04+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/16/nadelen</id>
+    <content type="html"><![CDATA[<p>Toen Google in 2009 aankondigde dat zij bepaalde algoritmes ging loslaten op de data die zij verzamelde over haar gebruikers, waarmee voorspeld zou worden welke zoekresultaten voor hen waarschijnlijke de meeste pertinente zijn, bracht dat al snel een vocale beweging op gang die het zogenaamde &ldquo;gepersonaliseerde zoeken&rdquo; hekelde als sterk beknottend voor de vrije verspreiding van informatie en meningen op het internet. Eli Pariser, één van de meer bekende tegenstanders van Googles initiatief, dat snel nagevolging kreeg van de andere internetreuzen zoals Facebook en Yahoo, gaf het fenomeen daarna de definitieve pejoratieve benaming mee: de <em>&ldquo;filter bubble&rdquo;</em>. Zoals we reeds hebben besproken, zijn er een aantal gebruiksvoordelen te verbinden met deze ontwikkeling. Desondanks hebben Pariser en de zijnen zeker een punt wanneer ze de &ldquo;bubbel&rdquo; afkraken. Deze pagina is een overzicht van de problemen die de aangepaste zoekresultaten kunnen stellen voor zij die de internetwateren bevaren, op zoek naar zelfverbreding.</p>
+
+<!-- more -->
+
+
+<p>Het eerste probleem is meteen zeer gewichtig: het proces van Googles zoekmachine, op basis waarvan het besluit om bepaalde pagina&rsquo;s naar boven te brengen, en anderen naar de onderkant van de stapel te verschuiven, is geheel ondoorzichtig. Wanneer iemand een zoekterm ingeeft, moet die persoon er bijgevolg op vertrouwen dat de algoritmes van Google geen resultaten voor hem verbergen die misschien wel net de inhoud bevatten waar hij of zij naar op zoek is. Hier is uiteraard geen kwade wil vanwege Google in het spel, maar dat neemt niet weg dat de kans op foute inschattingen vanwege het programma zeer reëel is. Door de intransparante aard van het proces zal de persoon in kwestie ook nooit weten wat hij gemist heeft. Natuurlijk is de kans op het missen van goede informatie in de wijdse data-oceaan van het internet een dagelijkse realiteit, maar het is jammerlijk als zulke zaken veroorzaakt worden door een verandering die Google toegepast heeft.</p>
+
+<p>De bedrijven, ondertussen, bedienen zich maar al te graag van zulke algoritmes, want ze geven de onwetende klanten het gevoel dat een haast magische vloeiendheid zit in de manier waarop ze van het ene naar het andere onderwerp dat hen aangaat vliegen, zonder dat ze daar kritisch over zijn. Op die manier vergroten bedrijven als Google, Facebook, en recent ook Twitter hun jaarlijkse winstmarges aanzienlijk. En alhoewel een schijnbaar betere gebruikerservaring niet per se een obstakel hoeft te zijn, is het in zekere zin een &ldquo;vervalsing&rdquo; van de realiteit, niet ongelijkaardig aan de kleppen die over de ogen van renpaarden worden getrokken om hen ongevoelig te maken voor impulsen uit de periferie. Zij die onder de glazen stolp zitten van de <em>filter bubble</em>, zullen het zeer moeilijk hebben om signalen van aan de andere kant van het glas op te vangen. Pariser vindt in dat verband dat bedrijven op zijn minst hun werkwijze in het aanpassen van zoekresultaten en advertenties heel begrijpelijk zouden moeten uitleggen, zodat de cliënten, wiens data ze registreren en omzetten, tenminste weten waar ze voor staan.</p>
+
+<p>Indien dat niet gebeurt, zoals nu het geval is, dreigen de sterk internetafhankelijke maatschappijen van onze wereld te versplinteren. De bubbel is ontworpen om mensen te geven wat ze willen; andere mensen die aansluiten bij hun interesses en wereldvisie. Hoewel het vinden van dit soort gelijkgezinden zeker een nobele toepassing is van de verbindende aard van het internet, loopt men het risico collectief tunnelvisie aan te kweken. Het wereldwijde web is hét middel bij uitstek om over landsgrenzen en oceanen heen te communiceren met onze medemens, maar als de populaire websites en zoekmachines van het web ons allemaal op basis van een aantal variabelen beginnen te categoriseren en ons via een trechtersysteem enkel nog met onze &ldquo;soortgenoten&rdquo; in contact brengen, komt de segregatie op basis van gedachtengoed wel heel dichtbij. De enige manier waarop meningen aangescherpt en verfijnd kunnen worden, is door de verbale confrontatie met ideologische opponenten. Dat leidt namelijk tot een internet-omgeving waarin alles om de gebruiker en diens meningen zelf lijkt te draaien, wat ons erg naar binnen gekeerd kan doen worden. Het maakt ons ook gevoeliger voor propaganda die voortbouwt op de meningen die we hebben, aangezien we te weinig in contact komen met stemmen die zulke propaganda tegenspreken. Of de gemiddelde internetsurfer dat nu wil inzien of niet, enorm invloedrijke bedrijven als Google zouden er niet actief aan bij mogen dragen door dissidente meningen systematisch weg te filteren uit hun zoekresultaten.</p>
+
+<p>Ook op een meer algemeen informatief niveau kan de <em>filter bubble</em> beknottend werken. Zelfs als men niet op zoek is naar opiniestukken en politieke statements, kan men toch in een soort echokamer terecht komen, waarin bepaalde paradigma&rsquo;s ad infinitum terugkomen, en misinformatie kan blijven voortbestaan. Dat kan leiden tot wat men de <em>&ldquo;identity loop&rdquo;</em> noemt: omdat computergebruikers steeds dezelfde onderwerpen op zien duiken, worden hun interesses kunstmatig versterkt. Op die manier kan men zelfs poneren dat sites als Facebook hun accounthouders er onbewust toe drijven bepaalde belangstellingen te ontwikkelen. In het geval van Facebook kan er ook in omgekeerde richting een negatief proces uitgevoerd worden, waarbij banden met vrienden geruisloos vervagen. Het sociale media-bedrijf maakt er haar industrie van mensen te verbinden, zegt ze, maar in werkelijkheid werkt het bepalingsproces van de updates die al dan niet naar voren worden geschoven op basis van een puntensysteem. Als daarbij relatief weinig <em>&ldquo;likes&rdquo;</em> en bekeken foto&rsquo;s van een bevriende account worden opgemeten, zal deze vriend steeds minder opduiken in het overzicht. Dat creëert dan weer een kunstmatig gevoel van afstandelijkheid dat een weerslag kan hebben op de vriendschap in de echte wereld.</p>
+
+<p>In die zin hebben ondernemingen als Google en Facebook een serieuze hypotheek gelegd op het vermogen van het internet om een vrij kruispunt van informatie te zijn. Waar de radio, televisie en andere media vroeger de &ldquo;poortwachters&rdquo; waren die informatie voorkauwden en zo hun publiek bij voorbaat beïnvloedden, hebben deze miljardenbedrijfen deze almachtige positie nu overgenomen. Even had het internet enorm potentieel om haar gebruikers in staat te stellen door slim en kritisch zoekwerk veel van deze voorgekauwde stof te omzeilen en zelf meningen te vormen. Natuurlijk kan kritisch zijn nog steeds; er worden gewoonweg minder middelen aangereikt om het te doen. Dat wil niet zeggen dat mensen niet intrinsiek geneigd zijn om hun eigen meningen als waar te beschouwen en alle overige maar zeer aarzelend toe te laten in hun denkbeelden, maar met de recente opkomst van de <em>filter bubble</em> is het drijfzand van de eigen overtuigingen weer net dat beetje moeilijker te ontsnappen is. De keerzijde van diezelfde munt is het feit dat het nog lastiger is geworden voor een onbekende persoon met een revolutionaire mening om voet aan de grond te krijgen. Het internet is al een hele tijd enorm omvangrijk, wat het alsmaar problematischer maakte om op te vallen, maar nu is het zelfs zover gekomen dat de meeste zoekmachines actief werken om dit soort nieuwe meningen in een donkere hoek te schuiven. In maatschappijen die trachten inclusief en democratisch te zijn, komt die ongelijke verdeling van kennis en meningen niemand ten goede.</p>
+
+<p>Ten slotte, maar zeker niet in het minst, hangt de <em>filter bubble</em> uiteraard ook sterk samen met een verlies van privacy. De aangepaste omgeving van het internet geeft ons een goed gevoel, en maakt dus dat we gemakkelijker toegeven aan de slinkse pogingen van de bedrijven die hun brood verdienen met het doorverkopen van persoonlijke data aan reclamebureau&rsquo;s en dergelijke. We verkopen als het ware alle inzichten over wat ons bezighoudt en wat ons interesseert in ruil voor een haast gecensureerde en dus minder confronterende internetervaring.</p>
+
+<p>Met het concept van de <em>filter bubble</em> worden dus heel wat ethische vraagstukken verbonden. Uiteindelijk moet er altijd een keuze gemaakt worden; zijn we liefst zelf verantwoordelijk voor de informatie die we consumeren, beseffende dat het internet zo monumentaal veel informatie bevat dat het onmogelijk is geworden om nog maar een fractie te zien van de aanwezige informatie? Of laten we ons helpen in het ordenen van de chaos door zoekmachines zoals Google, beseffende dat onze privacy en mogelijkheden om een genuanceerde mening te vormen daarmee potentiëel gecompromitteerd zouden kunnen worden? Beide uiteinden van het spectrum hebben hun voor- en nadelen, en we hebben getracht daarin genuanceerd te blijven. Dat is belangrijk, want de term <em>&ldquo;filter bubble&rdquo;</em> wordt bezwaard door een zeer negatieve bijklank; het is niet gemakkelijk om mensen te vinden die geadapteerde zoekresultaten verdedigen tegenover de vloedgolf van vocale critici. Als u graag meer zou willen weten over de voordelen van de <em>filter bubble</em>, die zeker ook het vernoemen waard zijn, verwijzen wij u door naar <a href="http://filterbubbel.github.io/blog/2014/05/16/voordelen/">deze pagina</a>. Indien u de zaak langs beide kanten gewikt en gewogen heeft, en tot de conclusie bent gekomen dat u liever de effecten van uw persoonlijke <em>filter bubble</em> graag wat zou verminderen, verwijzen wij u graag door naar <a href="http://filterbubbel.github.io/blog/2014/05/16/tegenmaatregelen/">een pagina met tips</a> om dat doel te verwezenlijken.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Tegenmaatregelen]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/02/tegenmaatregelen/"/>
-    <updated>2014-05-02T13:51:20+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/02/tegenmaatregelen</id>
-    <content type="html"><![CDATA[<p>Aan de <em>filter bubble</em> zijn zowel voordelen als nadelen verbonden. Als de gedachte dat bedrijven als Google uw doen en laten op het internet registreren, u niet aanstaat, zijn er enkele simpele stappen die u kan ondernemen om de effecten van de bubbel te minimaliseren. Let echter wel op; de prijs van een vergrootte anonimiteit op het internet staat voor een zekere vermindering van de snelheid van gebruik. In het geval van <em>cookies</em>, bijvoorbeeld, zal u na de verwijdering en uitschakeling ervan merken dat u op sites telkens opnieuw manueel moet inloggen. Als u dat soort gebruiksgemak prioriteert boven het vermogen om de personalisering van uw zoekopdrachten te onderdrukken, kan u de <em>cookies</em> uiteraard laten zoals ze zijn.</p>
+    <link href="http://filterbubbel.github.io/blog/2014/05/16/tegenmaatregelen/"/>
+    <updated>2014-05-16T16:00:05+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/16/tegenmaatregelen</id>
+    <content type="html"><![CDATA[<p>Aan de <em>filter bubble</em> zijn zowel <a href="http://filterbubbel.github.io/blog/2014/05/16/voordelen/">voordelen</a> als <a href="http://filterbubbel.github.io/blog/2014/05/16/nadelen/">nadelen</a>verbonden. Als de gedachte dat bedrijven als Google uw doen en laten op het internet registreren, u niet aanstaat, zijn er enkele simpele stappen die u kan ondernemen om de effecten van de bubbel te minimaliseren. Let echter wel op; de prijs van een vergrootte anonimiteit op het internet staat voor een zekere vermindering van de snelheid van gebruik. In het geval van <em>cookies</em>, bijvoorbeeld, zal u na de verwijdering en uitschakeling ervan merken dat u op sites telkens opnieuw manueel moet inloggen. Als u dat soort gebruiksgemak prioriteert boven het vermogen om de personalisering van uw zoekopdrachten te onderdrukken, kan u de <em>cookies</em> uiteraard laten zoals ze zijn.</p>
 
 <!-- more -->
 
@@ -278,28 +267,41 @@ Probeer het zelf <a href="https://duckduckgo.com/?q=Japanese+linguistics+persona
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Nadelen]]></title>
-    <link href="http://filterbubbel.github.io/blog/2014/05/01/nadelen/"/>
-    <updated>2014-05-01T13:51:11+02:00</updated>
-    <id>http://filterbubbel.github.io/blog/2014/05/01/nadelen</id>
-    <content type="html"><![CDATA[<p>Toen Google in 2009 aankondigde dat zij bepaalde algoritmes ging loslaten op de data die zij verzamelde over haar gebruikers, waarmee voorspeld zou worden welke zoekresultaten voor hen waarschijnlijke de meeste pertinente zijn, bracht dat al snel een vocale beweging op gang die het zogenaamde &ldquo;gepersonaliseerde zoeken&rdquo; hekelde als sterk beknottend voor de vrije verspreiding van informatie en meningen op het internet. Eli Pariser, één van de meer bekende tegenstanders van Googles initiatief, dat snel nagevolging kreeg van de andere internetreuzen zoals Facebook en Yahoo, gaf het fenomeen daarna de definitieve pejoratieve benaming mee: de <em>&ldquo;filter bubble&rdquo;</em>. Zoals we reeds hebben besproken, zijn er een aantal gebruiksvoordelen te verbinden met deze ontwikkeling. Desondanks hebben Pariser en de zijnen zeker een punt wanneer ze de &ldquo;bubbel&rdquo; afkraken. Deze pagina is een overzicht van de problemen die de aangepaste zoekresultaten kunnen stellen voor zij die de internetwateren bevaren, op zoek naar zelfverbreding.</p>
+    <title type="html"><![CDATA[Lees Verder]]></title>
+    <link href="http://filterbubbel.github.io/blog/2014/05/16/lees-verder/"/>
+    <updated>2014-05-16T15:00:06+02:00</updated>
+    <id>http://filterbubbel.github.io/blog/2014/05/16/lees-verder</id>
+    <content type="html"><![CDATA[<p>Om meer informatie te vinden over de voor- en nadelen van de <em>filter bubble</em> en hoe hem tegen te gaan verwijzen we u graag naar onze leeslijst.</p>
 
 <!-- more -->
 
 
-<p>Het eerste probleem is meteen zeer gewichtig: het proces van Googles zoekmachine, op basis waarvan het besluit om bepaalde pagina&rsquo;s naar boven te brengen, en anderen naar de onderkant van de stapel te verschuiven, is geheel ondoorzichtig. Wanneer iemand een zoekterm ingeeft, moet die persoon er bijgevolg op vertrouwen dat de algoritmes van Google geen resultaten voor hem verbergen die misschien wel net de inhoud bevatten waar hij of zij naar op zoek is. Hier is uiteraard geen kwade wil vanwege Google in het spel, maar dat neemt niet weg dat de kans op foute inschattingen vanwege het programma zeer reëel is. Door de intransparante aard van het proces zal de persoon in kwestie ook nooit weten wat hij gemist heeft. Natuurlijk is de kans op het missen van goede informatie in de wijdse data-oceaan van het internet een dagelijkse realiteit, maar het is jammerlijk als zulke zaken veroorzaakt worden door een verandering die Google toegepast heeft.</p>
+<h3>Boeken</h3>
 
-<p>De bedrijven, ondertussen, bedienen zich maar al te graag van zulke algoritmes, want ze geven de onwetende klanten het gevoel dat een haast magische vloeiendheid zit in de manier waarop ze van het ene naar het andere onderwerp dat hen aangaat vliegen, zonder dat ze daar kritisch over zijn. Op die manier vergroten bedrijven als Google, Facebook, en recent ook Twitter hun jaarlijkse winstmarges aanzienlijk. En alhoewel een schijnbaar betere gebruikerservaring niet per se een obstakel hoeft te zijn, is het in zekere zin een &ldquo;vervalsing&rdquo; van de realiteit, niet ongelijkaardig aan de kleppen die over de ogen van renpaarden worden getrokken om hen ongevoelig te maken voor impulsen uit de periferie. Zij die onder de glazen stolp zitten van de <em>filter bubble</em>, zullen het zeer moeilijk hebben om signalen van aan de andere kant van het glas op te vangen. Pariser vindt in dat verband dat bedrijven op zijn minst hun werkwijze in het aanpassen van zoekresultaten en advertenties heel begrijpelijk zouden moeten uitleggen, zodat de cliënten, wiens data ze registreren en omzetten, tenminste weten waar ze voor staan.</p>
+<p>Eli Pariser <a href="http://www.amazon.co.uk/The-Filter-Bubble-Internet-Hiding/dp/0241954525">The Filter Bubble: What The Internet Is Hiding From Us</a><br/>
+Eli Pariser schreef dit boek over het fenomeen dat hij de <em>&ldquo;filter bubble&rdquo;</em> noemt en spreekt over de gevolgen van deze <em>&ldquo;bubble&rdquo;</em>.</p>
 
-<p>Indien dat niet gebeurt, zoals nu het geval is, dreigen de sterk internetafhankelijke maatschappijen van onze wereld te versplinteren. De bubbel is ontworpen om mensen te geven wat ze willen; andere mensen die aansluiten bij hun interesses en wereldvisie. Hoewel het vinden van dit soort gelijkgezinden zeker een nobele toepassing is van de verbindende aard van het internet, loopt men het risico collectief tunnelvisie aan te kweken. Het wereldwijde web is hét middel bij uitstek om over landsgrenzen en oceanen heen te communiceren met onze medemens, maar als de populaire websites en zoekmachines van het web ons allemaal op basis van een aantal variabelen beginnen te categoriseren en ons via een trechtersysteem enkel nog met onze &ldquo;soortgenoten&rdquo; in contact brengen, komt de segregatie op basis van gedachtengoed wel heel dichtbij. De enige manier waarop meningen aangescherpt en verfijnd kunnen worden, is door de verbale confrontatie met ideologische opponenten. Dat leidt namelijk tot een internet-omgeving waarin alles om de gebruiker en diens meningen zelf lijkt te draaien, wat ons erg naar binnen gekeerd kan doen worden. Het maakt ons ook gevoeliger voor propaganda die voortbouwt op de meningen die we hebben, aangezien we te weinig in contact komen met stemmen die zulke propaganda tegenspreken. Of de gemiddelde internetsurfer dat nu wil inzien of niet, enorm invloedrijke bedrijven als Google zouden er niet actief aan bij mogen dragen door dissidente meningen systematisch weg te filteren uit hun zoekresultaten.</p>
+<h3>Artikels</h3>
 
-<p>Ook op een meer algemeen informatief niveau kan de <em>filter bubble</em> beknottend werken. Zelfs als men niet op zoek is naar opiniestukken en politieke statements, kan men toch in een soort echokamer terecht komen, waarin bepaalde paradigma&rsquo;s ad infinitum terugkomen, en misinformatie kan blijven voortbestaan. Dat kan leiden tot wat men de <em>&ldquo;identity loop&rdquo;</em> noemt: omdat computergebruikers steeds dezelfde onderwerpen op zien duiken, worden hun interesses kunstmatig versterkt. Op die manier kan men zelfs poneren dat sites als Facebook hun accounthouders er onbewust toe drijven bepaalde belangstellingen te ontwikkelen. In het geval van Facebook kan er ook in omgekeerde richting een negatief proces uitgevoerd worden, waarbij banden met vrienden geruisloos vervagen. Het sociale media-bedrijf maakt er haar industrie van mensen te verbinden, zegt ze, maar in werkelijkheid werkt het bepalingsproces van de updates die al dan niet naar voren worden geschoven op basis van een puntensysteem. Als daarbij relatief weinig <em>&ldquo;likes&rdquo;</em> en bekeken foto&rsquo;s van een bevriende account worden opgemeten, zal deze vriend steeds minder opduiken in het overzicht. Dat creëert dan weer een kunstmatig gevoel van afstandelijkheid dat een weerslag kan hebben op de vriendschap in de echte wereld.</p>
+<p>Over voordelen van de <em>filter bubble</em>:<br/>
+Louis Gray <a href="http://blog.louisgray.com/2011/05/why-filter-bubble-is-no-bubble-and-its.html">Why The Filter Bubble Is No Bubble and It&rsquo;s Not Bad Either</a></p>
 
-<p>In die zin hebben ondernemingen als Google en Facebook een serieuze hypotheek gelegd op het vermogen van het internet om een vrij kruispunt van informatie te zijn. Waar de radio, televisie en andere media vroeger de &ldquo;poortwachters&rdquo; waren die informatie voorkauwden en zo hun publiek bij voorbaat beïnvloedden, hebben deze miljardenbedrijfen deze almachtige positie nu overgenomen. Even had het internet enorm potentieel om haar gebruikers in staat te stellen door slim en kritisch zoekwerk veel van deze voorgekauwde stof te omzeilen en zelf meningen te vormen. Natuurlijk kan kritisch zijn nog steeds; er worden gewoonweg minder middelen aangereikt om het te doen. Dat wil niet zeggen dat mensen niet intrinsiek geneigd zijn om hun eigen meningen als waar te beschouwen en alle overige maar zeer aarzelend toe te laten in hun denkbeelden, maar met de recente opkomst van de <em>filter bubble</em> is het drijfzand van de eigen overtuigingen weer net dat beetje moeilijker te ontsnappen is. De keerzijde van diezelfde munt is het feit dat het nog lastiger is geworden voor een onbekende persoon met een revolutionaire mening om voet aan de grond te krijgen. Het internet is al een hele tijd enorm omvangrijk, wat het alsmaar problematischer maakte om op te vallen, maar nu is het zelfs zover gekomen dat de meeste zoekmachines actief werken om dit soort nieuwe meningen in een donkere hoek te schuiven. In maatschappijen die trachten inclusief en democratisch te zijn, komt die ongelijke verdeling van kennis en meningen niemand ten goede.</p>
+<p>Over gevaren van de <em>filter bubble</em>:<br/>
+Eli Pariser voor The Filter Bubbel <a href="http://www.thefilterbubble.com/web-inventor-tim-berners-lee-weighs-in-theres-danger-in-the-filter-bubble">Web inventor Tim Berners-Lee weighs in: “There’s danger in the filter bubble”</a></p>
 
-<p>Ten slotte, maar zeker niet in het minst, hangt de <em>filter bubble</em> uiteraard ook sterk samen met een verlies van privacy. De aangepaste omgeving van het internet geeft ons een goed gevoel, en maakt dus dat we gemakkelijker toegeven aan de slinkse pogingen van de bedrijven die hun brood verdienen met het doorverkopen van persoonlijke data aan reclamebureau&rsquo;s en dergelijke. We verkopen als het ware alle inzichten over wat ons bezighoudt en wat ons interesseert in ruil voor een haast gecensureerde en dus minder confronterende internetervaring.</p>
+<p>Over de <em>filter bubble</em> en web-personalisatie:<br/>
+Jacob Weisberg voor Slate <a href="http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html">Bubble Trouble</a></p>
 
-<p>Met het concept van de <em>filter bubble</em> worden dus heel wat ethische vraagstukken verbonden. Uiteindelijk moet er altijd een keuze gemaakt worden; zijn we liefst zelf verantwoordelijk voor de informatie die we consumeren, beseffende dat het internet zo monumentaal veel informatie bevat dat het onmogelijk is geworden om nog maar een fractie te zien van de aanwezige informatie? Of laten we ons helpen in het ordenen van de chaos door zoekmachines zoals Google, beseffende dat onze privacy en mogelijkheden om een genuanceerde mening te vormen daarmee potentiëel gecompromitteerd zouden kunnen worden? Beide uiteinden van het spectrum hebben hun voor- en nadelen, en we hebben getracht daarin genuanceerd te blijven. Dat is belangrijk, want de term <em>&ldquo;filter bubble&rdquo;</em> wordt bezwaard door een zeer negatieve bijklank; het is niet gemakkelijk om mensen te vinden die geadapteerde zoekresultaten verdedigen tegenover de vloedgolf van vocale critici. Als u graag meer zou willen weten over de voordelen van de <em>filter bubble</em>, die zeker ook het vernoemen waard zijn, verwijzen wij u door naar deze pagina. Indien u de zaak langs beide kanten gewikt en gewogen heeft, en tot de conclusie bent gekomen dat u liever de effecten van uw persoonlijke <em>filter bubble</em> graag wat zou verminderen, verwijzen wij u graag door naar een pagina met tips om dat doel te verwezenlijken.</p>
+<p>Over de <em>filter bubble</em> en zijn relatie met bedrijven:<br/>
+Randy Brians voor Beegood Marketing <a href="http://business.beegoodmarketing.com/what-the-filter-bubble-means-to-progressive-businesses/">What the “Filter Bubble” Means to Progressive Businesses</a></p>
+
+<p>Over het tegengaan van de <em>filter bubble</em>:<br/>
+Mike Elgan voor Computerworld <a href="http://www.computerworld.com/s/article/9216484/Elgan_How_to_pop_your_Internet_filter_bubble_?taxonomyId=167&amp;pageNumber=3">How to pop your Internet &lsquo;filter bubble&rsquo;</a><br/>
+arXiv Blog via MIT Technology Review <a href="http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/">How to Burst the &ldquo;Filter Bubble&rdquo; that Protects Us from Opposing Views</a></p>
+
+<h3>Overige</h3>
+
+<p>Duck Duck Go is een zoekmachine die geen gebruik maakt van de <em>filter bubble</em>, en daarom een veiligere optie kan zijn om op het web te surfen. Hun <em><a href="https://duckduckgo.com/about">&ldquo;About&rdquo;</a></em> pagina biedt meer informatie over hoe deze zoekmachine werkt. De <em>developers</em> achter Duck Duck Go hebben ook webpagina&rsquo;s aangemaakt over respectievelijk <a href="http://dontbubble.us/">de <em>filter bubble</em> en zijn gevolgen</a>, en <a href="http://fixtracking.com/">hoe hem tegen te gaan</a>.</p>
 ]]></content>
   </entry>
   
